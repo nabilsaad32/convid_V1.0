@@ -1,0 +1,49 @@
+#window{
+	background-color: #4D4D4D
+}
+#label{
+	color: #FFFFFF;
+	font-family: 'DejaVu Sans Mono'; 
+	font-size:13;
+	text-decoration-color: #212121;
+	text-decoration-style: double;
+}
+#label2{
+	background-color: #230809;
+	color: #CDCBCB;
+	font-family: 'DejaVu Sans Mono'; 
+	font-size:11;
+	text-decoration-color: #212121;
+	text-decoration-style: double;
+}
+
+
+
+
+#choos{
+	background-color: #009000;
+	color: #004E00;
+	font-family: 'DejaVu Sans Mono'; 
+	text-decoration-color: #212121;
+	text-decoration-style: double;
+}
+
+#button{
+	background-color: #3D943D;
+	color: #FFFFFF;
+	font-family: 'DejaVu Sans Mono'; 
+}
+#button:hover{
+	opacity:1.0;
+	background-color:#40B240;
+}
+#entry{
+	color: #004E00;
+	font-family: 'DejaVu Sans Mono'; 
+	background-color:#FFFFFF;
+}
+#converting{
+	color: #FFFFFF;
+	font-family: 'DejaVu Sans Mono'; 
+	background-color:#E23232;
+}
