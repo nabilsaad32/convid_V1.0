@@ -39,6 +39,9 @@ Run the application with the following command:
 ```bash
 python convid.py
 ```
+## GIF Review
+
+![GIF Review](img.gif)
 
 ## Contributing
 
