@@ -1,6 +1,0 @@
-Project name = Convid.
-Developer = nabilsaad32@gmail.com
-Version = 1.0
-Discription = Small Gui program to change Video Files formats using ffmpeg.
-Requirment = Ffmpeg, python3.x with Libraries:(gi,ffmpy,subprocess,threading,os).
-Date starts = 26/04/2021.
