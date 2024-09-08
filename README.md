@@ -3,11 +3,10 @@
 
 ## Overview
 
-This Python FFmpeg app is a versatile tool designed to simplify and automate video and audio processing tasks. Leveraging the power of FFmpeg through Python, this app provides a user-friendly interface to access FFmpeg's extensive features and functionalities.
-
+This Python FFmpeg app with Gtk3 gui, is a versatile tool designed to simplify and automate video and audio processing tasks. Leveraging the power of FFmpeg through Python, this app provides a user-friendly interface to convert media files format using FFmpeg
 ## Features
 
-- Convert video and audio formats
+- Convert videos and audios formats
 
 ## Installation
 
