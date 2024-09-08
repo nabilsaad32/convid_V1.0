@@ -1,5 +1,5 @@
 
-# Python FFmpeg App Covid V 1.0:
+# Python FFmpeg App Convid V 1.0:
 
 ## Overview
 
