@@ -30,7 +30,7 @@ from gi.repository import Gtk,Gdk
 
 screen = Gdk.Screen.get_default()
 provider = Gtk.CssProvider()
-provider.load_from_path("./css/style.css")
+provider.load_from_path("./style.css")
 Gtk.StyleContext.add_provider_for_screen(screen, provider, Gtk.STYLE_PROVIDER_PRIORITY_APPLICATION)
 
 
