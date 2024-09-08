@@ -40,7 +40,8 @@ Run the application with the following command:
 ```bash
 python convid.py
 ```
-
+## GIF Review
+![GIF Review] (img.gif)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the existing style and includes tests where applicable.
