@@ -12,10 +12,6 @@ This Python FFmpeg app with Gtk3 gui, is a versatile tool designed to simplify a
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/nabilsaad32/convid_V1.0.git
-   ```
-
 2. **Navigate to the Project Directory:**
 
    ```bash
